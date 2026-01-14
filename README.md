@@ -38,6 +38,9 @@ Make a `.gemini/skills` folder in your project and put the extracted skills fold
 
 > Create a JS console app that creates a hold invoice of $1 and asks the user to provide a lightning address and choose heads or tails. Once the hold invoice is accepted, flip a coin. If the user guessed correctly, cancel the hold invoice and pay the user $1 to their lightning address. If the user guessed incorrectly, settle the hold invoice. The NWC_URL is in the .env file.
 
+<img width="947" height="654" alt="image" src="https://github.com/user-attachments/assets/530fccff-33fe-4e68-8998-20f3649cfe7c" />
+
+
 ### Frontend Apps
 
 #### Streamer QR page with payment notifications
