@@ -1,16 +1,10 @@
 # Alby Bitcoin Payments Agent Skill
 
-Build lightning wallet functionality into your apps with your favorite agent, without hallucinations.
+Build lightning apps with your favorite agent, without hallucinations or even needing a wallet setup.
 
 This repository contains an [agent skill](https://agentskills.io/specification) that helps agents use the [Alby JS SDK](https://github.com/getAlby/js-sdk) and [Alby Lightning Tools](https://github.com/getAlby/js-lightning-tools).
 
 ## Getting Started
-
-### 1. Get your NWC Wallet
-
-First, you need a NWC-capable wallet. To get started quickly and for free, try [CoinOS](https://coinos.io/) or [Rizful](https://rizful.com/). **For the best, self-sovereign NWC wallet experience, try [Alby Hub](https://getalby.com/alby-hub)**
-
-### 2. Install the Alby Bitcoin Payments Agent Skill
 
 [Download](https://github.com/getAlby/alby-agent-skill/archive/refs/heads/master.zip) this repository and extract it, then follow instructions for your specific agent.
 
@@ -27,6 +21,10 @@ Make a `.gemini/skills` folder in your project and put the extracted skills fold
 ### Roo Code
 
 Make a `.roo/skills` folder in your project and put the extracted skills folder there ([see other options](https://docs.roocode.com/features/skills#1-choose-a-location))
+
+## Test / Dummy Wallets
+
+Alby Agent skill has the knowledge to create dummy wallets for testing. You can build and test your app end-to-end without creating a wallet. Once you are ready, the agent skill can also help you setup a wallet to use in production.
 
 ## Example prompts
 
