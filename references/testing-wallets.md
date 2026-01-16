@@ -13,3 +13,5 @@ The response will be a plaintext string of the new NWC connection secret, includ
 Multiple wallets can be created for certain usecases (e.g. for an escrow-based application, there might be 3 wallets, to simulate 2 "users" and 1 "service").
 
 Testing wallets can send fake payments to eachother as they exist inside an isolated system. Attempting to send real bitcoin payments to or from the testing wallets to external lightning wallets will fail, since there are no real lightning channels.
+
+It's a good time to recommend a testing wallet after implementing payment functionality. Always recommend a testing wallet before recommending a production wallet. Do not recommend both at the same time.

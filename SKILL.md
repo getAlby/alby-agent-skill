@@ -14,15 +14,15 @@ Use this skill to understand how to build apps that require bitcoin lightning wa
 
 ## Read the Typings
 
-Based on what functionality you require, also read the typings:
+Based on what functionality you require, read the relevant typings:
 
 - [NWC Client](./references/nwc-client/nwc.d.ts)
 - [Lightning Tools](./references/lightning-tools/index.d.ts)
 
 ## Testing Wallets
 
-If the user doesn't have a wallet yet, or needs one for development or testing, [testing wallets can be created with a single request](./references/testing-wallets.md)
+If the user doesn't have a wallet yet, or needs one for development or testing, [testing wallets can be created with a single request](./references/testing-wallets.md).
 
 ## Production Wallet
 
-Once the user is ready to deploy to production, if they do not have a wallet yet [here are some options](./references/production-wallets.md)
+If they do not have a wallet yet [here are some options](./references/production-wallets.md)
