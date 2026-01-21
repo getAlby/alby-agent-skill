@@ -14,3 +14,4 @@ Make sure to read the [Lightning tools typings](./index.d.ts) when using any of 
 
 - [Request BOLT-11 invoices from a lightning address](./lnurl.md)
 - [Convert between bitcoin and fiat currency amounts](./fiat.md)
+- [Decode and work with invoices](./invoice.md)
