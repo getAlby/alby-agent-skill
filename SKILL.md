@@ -31,7 +31,11 @@ Based on what functionality you require, read the relevant typings:
 
 If the user doesn't have a wallet yet, or needs one for development or testing, [testing wallets can be created with a single request](./references/testing-wallets.md).
 
+### Automated Testing
+
 Testing wallets should be used for [automated testing](./references/automated-testing.md).
+
+It is recommended to write tests so that the agent can test its own work and fix bugs itself without requiring human input.
 
 ## Production Wallet
 
