@@ -59,7 +59,13 @@ Alby Agent skill has the knowledge to create dummy wallets for testing. You can 
 
 ### Testing
 
+#### Example test for a backend or console app
+
 > Create a Typescript console app where Alice creates an invoice and Bob pays it. Write tests for it using jest.
+
+#### Example test for a frontend app (vitest + Playwright)
+
+> Create a Vite Typescript React app where a user can connect their wallet and then purchase fake cat pictures (simple canvas art) with a single click. Each picture costs 5000 sats. Show the total the shop has earned and their remaining stock of cat pictures. There should only be 21. Write tests for the app using vitest and playwright. Also take screenshots and review the screenshots.
 
 ## Development
 
