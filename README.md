@@ -2,6 +2,8 @@
 
 Build lightning apps with your favorite agent, without hallucinations or even needing a wallet setup.
 
+Before you start, try **[Alby Sandbox](https://sandbox.albylabs.com)** to see what you can build!
+
 This repository contains an [agent skill](https://agentskills.io/specification) that helps agents use the [Alby JS SDK](https://github.com/getAlby/js-sdk) and [Alby Lightning Tools](https://github.com/getAlby/js-lightning-tools).
 
 ## Getting Started
