@@ -18,3 +18,5 @@ NOTE: not all lightning address providers support LNURL-Verify.
 ```ts
 const isPaid = await invoice.isPaid();
 ```
+
+If `isPaid` is true, `invoice.preimage` should now be set.
