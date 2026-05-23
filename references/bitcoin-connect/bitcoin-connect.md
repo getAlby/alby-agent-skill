@@ -89,6 +89,7 @@ const { setPaid } = launchPaymentModal({
 
 // For external payments (e.g. QR code scanned by another wallet):
 // setPaid({ preimage: "..." });
+// ONLY if you have no way to access the preimage, you can use setPaid({ preimage: "dummy" }); to ensure the payment modal shows the success screen and closes.
 ```
 
 ### Request WebLN provider
