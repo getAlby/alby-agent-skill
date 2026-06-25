@@ -1,10 +1,10 @@
 ---
-name: alby-builder-skill
+name: alby-bitcoin-builder
 description: Add bitcoin lightning wallet capabilities to your app using Nostr Wallet Connect (NIP-47), LNURL, and WebLN. Send and receive payments, subscribe to real-time payment notifications (use this instead of polling), fetch wallet balance and transactions, do bitcoin to fiat currency conversions, query lightning addresses, conditionally settle payments (HOLD invoices), parse BOLT-11 invoices, verify payment preimages.
 license: Apache-2.0
 metadata:
   author: getAlby
-  version: "1.3.1"
+  version: "1.3.2"
 ---
 
 # Usage
