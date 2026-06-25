@@ -76,4 +76,4 @@ Alby Agent skill has the knowledge to create dummy wallets for testing. You can 
 
 ## Development
 
-Examples are hand-written, but lack the necessary typing information. Types are copied directly from the referenced projects using [this script](./alby-builder-skill/regenerate-types.sh)
+Examples are hand-written, but lack the necessary typing information. Types are copied directly from the referenced projects using [this script](./regenerate-types.sh)
